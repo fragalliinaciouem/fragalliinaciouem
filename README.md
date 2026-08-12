@@ -48,5 +48,6 @@ Minhas tecnologias de estudo mudam conforme a ementa do semestre. No momento, é
 - E-mail pessoal: inaciofragalli@gmail.com
 
 ---
+<p align="center"> <img src="assets/uem-logo.png" alt="Logo da Universidade Estadual de Maringá" width="160" /> </p>
 
 <sub>Construindo base teórica e prática em Engenharia de Software · UEM · 2026</sub>
