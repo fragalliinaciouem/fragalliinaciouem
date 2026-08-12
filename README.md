@@ -49,4 +49,4 @@ Minhas tecnologias de estudo mudam conforme a ementa do semestre. No momento, é
 
 ---
 
-<sub>Construindo base teórica e prática em [SEU CURSO] · [SUA UNIVERSIDADE] · 2026</sub>
+<sub>Construindo base teórica e prática em Engenharia de Software · UEM · 2026</sub>
